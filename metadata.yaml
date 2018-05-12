@@ -1,0 +1,43 @@
+_repo: Essays-in-Radical-Empiricism_32547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+  editor:
+    agent_name: Perry, Ralph Barton
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '25133'
+    url: http://www.gutenberg.org/2009/agents/25133
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Barton_Perry
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32547'
+  lccn: '12016286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Experience'
+- !lcsh 'Pragmatism'
+tableOfContents: Does 'consciousness' exist? -- A world of pure experience -- The
+  thing and its relations -- How two minds can know one thing -- The place of affectional
+  facts in a world of pure experience -- The experience of activity -- The essence
+  of humanism -- La notion de conscience -- Is radical empiricism solipsistic? --
+  Mr. Pitkin's refutation of 'radical empiricism' -- Humanism and truth once more
+  -- Absolutism and empiricism.
+title: Essays in Radical Empiricism
+url: http://www.gutenberg.org/ebooks/32547
