@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25133
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Barton_Perry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32547#Essays-in-Radical-Empiricism
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2010-05-26'
 gutenberg_type: Text
